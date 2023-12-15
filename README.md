@@ -17,9 +17,9 @@
 
 <div class="tecnologias-text">
 
-  - Conhecimento <strong>avançado</strong> de HTML
-  - Conhecimento <strong>avançado</strong> de CSS
-  - Conhecimento <strong>básico</strong> de JavaScript
+  - Conhecimento <strong>avançado</strong> de HTML.
+  - Conhecimento <strong>avançado</strong> de CSS.
+  - Conhecimento <strong>básico</strong> de JavaScript.
 </div>
 
 <div class="redes-ociais">
