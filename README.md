@@ -1,25 +1,23 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Gabriel!;Sou+estudante+front-end!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Gabriel!;Sou+estudante+back-end!)
 
 <div class="sobre-mim">
 
-- 💻 Estudante de programação front-end.
+- 💻 Estudante de programação back-end.
 - 👨🏻‍💻 Conhecimento breve sobre Hacking e Pentest.
 - 💪🏼 Comprometido a estudar todos os dias.
 </div>
 
 <div class="tecnologias">
   <h2>Tecnologias</h2>
-	<a href="https://www.w3.org/html/"><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
-	<a href="https://www.w3schools.com/css/"><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></a>
+	<a href="https://www.java.com/en/"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
+	<a href="https://github.com/"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></a>
 </div>
 <br>
 
 <div class="tecnologias-text">
 
-  - Conhecimento <strong>avançado</strong> de HTML.
-  - Conhecimento <strong>avançado</strong> de CSS.
-  - Conhecimento <strong>básico</strong> de JavaScript.
+  - Conhecimento <strong>básico</strong> de Java.
+  - Conhecimento <strong>básico</strong> de Github.
 </div>
 
 <div class="redes-ociais">
